@@ -7,8 +7,32 @@
 
 // console.log(count)
 
-let count = 5
+// let count = 5
 
-count = count + 1
+// count = count + 1
 
-console.log(count)
+// console.log(count)
+
+// let bonusPoints = 50
+// console.log(bonusPoints)
+
+// bonusPoints= bonusPoints+50
+// console.log(bonusPoints)
+
+// bonusPoints = bonusPoints - 75
+// console.log (bonusPoints)
+
+// bonusPoints = bonusPoints + 45
+// console.log(bonusPoints)
+
+// BUTTON ACTION//
+
+
+// initialize count as 0
+//listen for clicks in the increment button
+//increment the count variable when button is clicked
+// change count-el in HTML to reflect the new count
+
+
+
+
