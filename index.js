@@ -34,19 +34,25 @@
 // change count-el in HTML to reflect the new count
 
 
-let countEl = document.getElementById("count-el")// Pass in argument
+let countEl = document.getElementById("count-el") // Pass in argument
+let saveEl = document.getElementById("save-el")
 
 console.log(countEl)
 
 let count = 0
 
 function increment (){
-    count = count + 1
+    count += 1
     countEl.innerText= count
 
     console.log (count)
 }
 
 function save() {
+    let countStr = count + " - "
+    saveEl.innerText += countStr
+
+
+
     console.log("count")
-}
+} 
