@@ -1,1 +1,1 @@
-# A Counter App to leant JavaScript
+# A Counter App
